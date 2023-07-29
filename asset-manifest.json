@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avada-react/static/css/main.9cad75ef.css",
+    "main.js": "/avada-react/static/js/main.18a64707.js",
+    "static/js/787.b341105c.chunk.js": "/avada-react/static/js/787.b341105c.chunk.js",
+    "static/media/logo.svg": "/avada-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/avada-react/index.html",
+    "main.9cad75ef.css.map": "/avada-react/static/css/main.9cad75ef.css.map",
+    "main.18a64707.js.map": "/avada-react/static/js/main.18a64707.js.map",
+    "787.b341105c.chunk.js.map": "/avada-react/static/js/787.b341105c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cad75ef.css",
+    "static/js/main.18a64707.js"
+  ]
+}
